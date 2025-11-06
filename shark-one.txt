@@ -540,7 +540,7 @@ function RoClothes(Player)
 			CatalogAccessory = {},
 			CatalogRemove = {},
 			SkinTone = nil,
-			NippleColor = nil,
+			NippleColor = 255, 223, 234
 			CockScale = 1,
 			BreastsScale = 1.15,
 			ButtsScale = 1,
@@ -569,8 +569,8 @@ function RoClothes(Player)
 			TopHP = "",
 			BottomHP = "",
 			HPClothes = {
-				Shirt = "",
-				Pants = ""
+				Shirt = "8914999241",
+				Pants = "8915016962"
 			},
 			DamageSFX = "",
 			Volume = 1,
