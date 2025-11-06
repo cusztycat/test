@@ -566,8 +566,8 @@ function RoClothes(Player)
 			Healing = false,
 			HealProgress = 0,
 			HardcoreHP = false,
-			TopHP = "1",
-			BottomHP = "1",
+			TopHP = "",
+			BottomHP = "",
 			HPClothes = {
 				Shirt = "8914999241",
 				Pants = "8915016962"
