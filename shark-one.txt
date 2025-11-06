@@ -84,7 +84,7 @@
 local RS = game:GetService("RunService")
 
 function RoClothes(Player)
-	warn("nigger")
+	warn("sup")
 
 	--[[
 	--------------------------------------------------------------------------------------------------------------
